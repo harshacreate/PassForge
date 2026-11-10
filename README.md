@@ -17,5 +17,8 @@ PassForge estimates entropy and real-world crack time across attacker models, ru
 ## Tech
 Vanilla JavaScript · responsive single-page UI · no dependencies.
 
+## Limitations
+Strength and crack-time values are rough estimates based on a simple character-set model. Use a password manager for unique passwords; the score is not a security guarantee.
+
 ## License
 MIT © 2025 Harsha Malepati
